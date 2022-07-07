@@ -29,3 +29,6 @@ php delete.php -i{ID}
 # The Frontend
 The frontend is accessible via http://localhost/path/to/test/frontend
 Used libraries are: jQuery & Bootstrap
+
+# SQL Mock data
+The mock data was generated using mockaroo (https://www.mockaroo.com/)
